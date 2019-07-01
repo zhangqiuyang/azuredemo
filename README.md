@@ -1,0 +1,2 @@
+# azuredemo
+practice about azure
